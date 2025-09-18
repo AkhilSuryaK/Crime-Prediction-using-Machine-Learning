@@ -2,6 +2,9 @@
 
 An intelligent machine learning application that predicts crime rates across **19 Indian metropolitan cities**. Built to assist **law enforcement agencies** in analyzing trends and optimizing their resource allocation for a safer tomorrow.
 
+![Alt text](https://github.com/AkhilSuryaK/Crime-Prediction-using-Machine-Learning/blob/22f21e9a38a6ae45f6dff78f9355187d8bffe64f/Output.png)
+
+
 > 🔗 Live Demo: _Coming Soon_  
 > 👨‍💻 Developed by [Kolipaka Akhil Surya](https://www.linkedin.com/in/akhilsurya/)
 
